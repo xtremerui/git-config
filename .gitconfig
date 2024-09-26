@@ -1,6 +1,6 @@
 [user]
 	name = Rui Yang
-	email = ruiya@vmware.com
+	email = ruiy@outlook.com
 [alias]
 	co = checkout
 	br = branch
@@ -24,4 +24,4 @@
   untracked = cyan
 [core]
 	editor = nvim
-	email = ruiya@vmware.com
+	email = ruiy@outlook.com
